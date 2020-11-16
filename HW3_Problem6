@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+//Adding words to test.
+
 int main()
 {
     //Creating the standard namespace.
